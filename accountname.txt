@@ -1,0 +1,8 @@
+accountnumber                        accountname
+1001                                  santosh
+1002                                  aadish
+1003                                  mahesh
+1004                                  dinesh
+1005                                  pankaj
+1006                                  akshat
+1007                                  ajit
