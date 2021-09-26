@@ -1,0 +1,4 @@
+account number                 offer
+1001                           10%
+1002                           12%
+1003                           15%
