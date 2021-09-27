@@ -1,0 +1,3 @@
+wishlist                       checkout
+jeans                          shirt
+trouser                        paints
