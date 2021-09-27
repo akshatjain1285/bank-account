@@ -1,0 +1,3 @@
+needs                       vegetable
+bhindi                      aloo
+gobi                        pyaz
